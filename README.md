@@ -1,4 +1,4 @@
-# Joy API Mock
+# API
 Welcome to the API of metropolitano
 ## Preview Step
    * install nodejs (https://nodejs.org/en/)
