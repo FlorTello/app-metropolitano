@@ -1,8 +1,8 @@
 # Joy API Mock
-Welcome to the Joy API mock project. Here we implement a mock server that can work with any client emulating the actual behavior from Joy backend.
+Welcome to the API of metropolitano
 ## Preview Step
    * install nodejs (https://nodejs.org/en/)
-   * Clone project of (http://bitbucket.agile.bns/projects/SOLREV/repos/joy-api-mock)     
+   * Clone project  
    * install dependencies and init server  
     
     npm install
@@ -10,9 +10,12 @@ Welcome to the Joy API mock project. Here we implement a mock server that can wo
     npm start
     
 ## Features
-- [X] Login on trusted device (no OTP)
-- [X] Dashboard
-- [X] Products
-- [X] Transfers
-- [X] Versioning
-- [ ] Credit card payment
+- [X] list of station
+- [X] list of district
+- [X] list of trunk
+- [X] list of detail trunk
+- [X] list of schedule
+
+
+
+
