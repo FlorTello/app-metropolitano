@@ -5,11 +5,7 @@ const router = express.Router();
 const path = require('path');
 
 router.get('/list', (req, res) => {
-  res.sendFile(path.resolve('./src/trunk/mock/list.json'));
-});
-
-router.get('/detail', (req, res) => {
-  res.sendFile(path.resolve('./src/trunk/mock/list.json'));
+  res.sendFile(path.resolve('./src/trunkDetail/mock/detail.json'));
 });
 
 module.exports = router;

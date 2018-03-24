@@ -1,0 +1,24 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "Api restfull for metropolitano service",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FlorTello/app-metropolitano.git"
+  },
+  "author": "Flor Tello , Leslie Avendaño",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.2"
+  }
+}
